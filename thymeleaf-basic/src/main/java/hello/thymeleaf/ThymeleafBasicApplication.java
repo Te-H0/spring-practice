@@ -11,4 +11,3 @@ public class ThymeleafBasicApplication {
 	}
 
 }
-997b86a
